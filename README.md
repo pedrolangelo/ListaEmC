@@ -1,5 +1,5 @@
 # ListaEmC
-Dois trabalhos realizados na matéria de Estrutura de Dados
+Dois trabalhos com lista utilizando ponteiro realizados na matéria de Estrutura de Dados.
 
 ## Loja
 Programa utilizando lista C++ para o cadastro de pedidos de uma loja.
